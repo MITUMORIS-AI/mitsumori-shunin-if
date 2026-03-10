@@ -47,13 +47,13 @@ https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/{path}
 
 | ドキュメント | URL |
 |:---|:---|
-| CSV構造・階層・行属性 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/01_csv-format.md` |
-| 計算式の文法・変数・関数 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/02_formula-guide.md` |
-| テンプレート動的展開 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/03_template-expansion.md` |
-| 積算数量算出ルール | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/04_domain-reference.md` |
-| 比例関係一覧 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/05_proportion-table.md` |
-| 計算式マスター（辞書） | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/docs/06_formula-master.md` |
-| 完全サンプルCSV | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/samples/sample-data.md` |
+| CSV構造・階層・行属性 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/01_csv-format.md` |
+| 計算式の文法・変数・関数 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/02_formula-guide.md` |
+| テンプレート動的展開 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/03_template-expansion.md` |
+| 積算数量算出ルール | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/04_domain-reference.md` |
+| 比例関係一覧 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/05_proportion-table.md` |
+| 計算式マスター（辞書） | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/06_formula-master.md` |
+| 完全サンプルCSV | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/samples/sample-data.md` |
 
 ### STEP 3 ─ 作業の実行
 
