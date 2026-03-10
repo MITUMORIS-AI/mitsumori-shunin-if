@@ -42,13 +42,13 @@
 
 | ドキュメント | URL |
 |:---|:---|
-| CSV構造・階層・行属性 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/01_csv-format.md` |
-| 計算式の文法・変数・関数 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/02_formula-guide.md` |
-| テンプレート動的展開 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/03_template-expansion.md` |
-| 積算数量算出ルール | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/04_domain-reference.md` |
-| 比例関係一覧 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/05_proportion-table.md` |
-| 計算式マスター（辞書） | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/06_formula-master.md` |
-| 完全サンプルCSV | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/sample-data.md` |
+| CSV構造・階層・行属性 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/01_csv-format.html` |
+| 計算式の文法・変数・関数 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/02_formula-guide.html` |
+| テンプレート動的展開 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/03_template-expansion.html` |
+| 積算数量算出ルール | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/04_domain-reference.html` |
+| 比例関係一覧 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/05_proportion-table.html` |
+| 計算式マスター（辞書） | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/06_formula-master.html` |
+| 完全サンプルCSV | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/sample-data.html` |
 
 ⚠️ ドキュメントを取得できなかった場合の対応（AI向け指示）:
 上記URLの取得に失敗した場合は、以下のようにユーザーに許可を求めてください。
@@ -58,7 +58,7 @@
 追加の仕様書が必要ですが、自動取得できませんでした。
 以下のURLから読み込んでもよろしいですか？
 
-https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/02_formula-guide.md
+https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/02_formula-guide.html
 
 ```
 ユーザーが許可（またはURLを貼り付け）したら、そのURLを再度取得してください。
