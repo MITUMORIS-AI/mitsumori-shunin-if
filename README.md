@@ -32,8 +32,7 @@
 │   ├── 02_formula-guide.md      ← 計算式の文法・変数・関数【タスクB,C,D】
 │   ├── 03_template-expansion.md ← 階層間テンプレート動的展開【タスクD】
 │   ├── 04_domain-reference.md   ← 木造住宅の積算数量算出ルール【タスクC】
-│   ├── 05_proportion-table.md   ← 見積項目の比例関係一覧【タスクC】
-│   └── 06_formula-master.md     ← 計算式マスター（約80式の辞書）【タスクC】
+│   └── 05_proportion-table.md   ← 見積項目の比例関係一覧【タスクC】
 └── samples/
     └── sample-data.md           ← 完全な動作サンプルCSV【タスクA,B,C,D】
 ```
@@ -47,7 +46,6 @@
 | テンプレート動的展開 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/03_template-expansion.html` |
 | 積算数量算出ルール | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/04_domain-reference.html` |
 | 比例関係一覧 | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/05_proportion-table.html` |
-| 計算式マスター（辞書） | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/06_formula-master.html` |
 | 完全サンプルCSV | `https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/sample-data.html` |
 
 ⚠️ ドキュメントを取得できなかった場合の対応（AI向け指示）:
@@ -59,7 +57,6 @@
 以下のURLから読み込んでもよろしいですか？
 
 https://mitumoris-ai.github.io/mitsumori-shunin-if/docs/02_formula-guide.html
-
 ```
 ユーザーが許可（またはURLを貼り付け）したら、そのURLを再度取得してください。
 
@@ -287,4 +284,4 @@ with open('output.csv', 'w', encoding='cp932', newline='') as f:
 
 - **本仕様の著作権**: ＨＲＫサンズ株式会社
 - **利用条件**:       AIによる「みつもり主任」データの読み書きを目的とした利用を許諾
-- **お問い合わせ**:   s.kobayashi@hrksons.co.jp
+- **お問い合わせ**:   support@hrksons.co.jp
