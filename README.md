@@ -38,11 +38,6 @@
     └── sample-data.md           ← 完全な動作サンプルCSV【タスクA,B,C,D】
 ```
 
-**GitHub raw URLの構成規則:**
-```
-https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/{path}
-```
-
 **各ドキュメントの取得URL一覧（AI向け: このURLでweb_fetchしてください）:**
 
 | ドキュメント | URL |
@@ -54,6 +49,19 @@ https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/{path}
 | 比例関係一覧 | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/05_proportion-table.md` |
 | 計算式マスター（辞書） | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/06_formula-master.md` |
 | 完全サンプルCSV | `https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/samples/sample-data.md` |
+
+⚠️ ドキュメントを取得できなかった場合の対応（AI向け指示）:
+上記URLの取得に失敗した場合は、以下のようにユーザーに許可を求めてください。
+取得が必要なURLをユーザーが確認・コピーできる形で提示し、読み込みの許可を得てから再取得してください。
+（下記はAIからユーザーへのメッセージ例）
+```
+追加の仕様書が必要ですが、自動取得できませんでした。
+以下のURLから読み込んでもよろしいですか？
+
+https://raw.githubusercontent.com/MITUMORIS-AI/mitsumori-shunin-if/main/docs/02_formula-guide.md
+
+```
+ユーザーが許可（またはURLを貼り付け）したら、そのURLを再度取得してください。
 
 ### STEP 3 ─ 作業の実行
 
